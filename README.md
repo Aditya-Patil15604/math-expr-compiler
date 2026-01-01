@@ -19,3 +19,5 @@ make
 ```bash
 make run
 ```
+## OUTPUT
+<img width="800" height="210" alt="image" src="https://github.com/user-attachments/assets/3795bd8b-e4a8-41b2-9e2b-400d3707ac1e" />
